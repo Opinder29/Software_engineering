@@ -18,10 +18,6 @@ pip install textblob gradio SpeechRecognition xgboost seaborn
 python -m textblob.download_corpora
 🖥 Usage
 Start the interface with:
-
-python
-Copy
-Edit
 iface.launch(debug=True)
 Then speak or type your message.
 Type "fun fact" for Hugging Face API facts.
