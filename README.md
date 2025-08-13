@@ -52,4 +52,4 @@ Conversation History: Logs chats in JSON format for tracking and analysis.
 
 # About
 
-EmotiBot Connect aims to create a more empathetic AI chatbot experience by combining advanced NLP techniques with emotion awareness. It’s a project designed to blend technology and emotional intelligence for meaningful user interaction.
+EmotiBot Connect aims to create a more empathetic AI chatbot experience by combining advanced NLP techniques with emotion awareness. It’s a project designed to blend technology and emotional intelligence for meaningful user interaction. 
