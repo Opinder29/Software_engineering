@@ -50,6 +50,6 @@ Conversation History: Logs chats in JSON format for tracking and analysis.
 - `emotion_transformer_model.pth` — Saved PyTorch model file.  
 - `conversation_history.json` — Recorded chat history in JSON.
 
-## About
+# About
 
 EmotiBot Connect aims to create a more empathetic AI chatbot experience by combining advanced NLP techniques with emotion awareness. It’s a project designed to blend technology and emotional intelligence for meaningful user interaction. 
