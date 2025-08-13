@@ -34,22 +34,16 @@ Type "fun fact" to receive interesting facts via the Hugging Face API.
 
 Type "bye" or "exit" to close the chat.
 
-## 📜 Workflow
-Preprocessing: Tokenization, text cleaning, and padding input sequences.
-
-Transformer Model: Employs positional encoding and attention mechanisms for emotion detection.
-
-Prediction Adjustments: Adjusts predictions based on sentiment polarity analysis.
-
-Suggestions Generation: Provides unique suggestions pulled dynamically from CSV data.
-
-Conversation History: Logs chats in JSON format for tracking and analysis.
+## 📜 Workflow 
+- Preprocessing – Tokenization, cleaning, padding
+- Transformer Model – Positional encoding, attention layers
+- Prediction Adjustments – Sentiment polarity overrides
+- Suggestions – Non-repeating advice from CSV
+- History – Saves past conversations to JSON
 
 ## 💾 Outputs
-
-- `emotion_transformer_model.pth` — Saved PyTorch model file.  
-- `conversation_history.json` — Recorded chat history in JSON.
-
+- `emotion_transformer_model.pth` – Trained model
+- `conversation_history.json` – Chat log
 # About
 
 EmotiBot Connect aims to create a more empathetic AI chatbot experience by combining advanced NLP techniques with emotion awareness. It’s a project designed to blend technology and emotional intelligence for meaningful user interaction. 
