@@ -44,6 +44,6 @@ Type "bye" or "exit" to close the chat.
 ## 💾 Outputs
 - `emotion_transformer_model.pth` – Trained model
 - `conversation_history.json` – Chat log
-# About
 
+# About
 EmotiBot Connect aims to create a more empathetic AI chatbot experience by combining advanced NLP techniques with emotion awareness. It’s a project designed to blend technology and emotional intelligence for meaningful user interaction. 
